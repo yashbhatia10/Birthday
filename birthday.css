@@ -1,0 +1,23 @@
+#birthdayCard {
+  background: darkorange;
+  color: #111111;
+  width: 25%;
+  min-width: 300px;
+  border: 8px solid orange;
+  border-left: 10px solid #DD0000;
+  margin: 10px;
+  padding: 20px;
+}
+
+.redText {
+  color: #CC0000;
+}
+
+.signature {
+  text-align: right;
+}
+
+strong {
+  font-size: large;
+  color: #CC0000;
+}
